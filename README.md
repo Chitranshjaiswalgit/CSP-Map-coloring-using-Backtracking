@@ -1,1 +1,3 @@
+# CSP-Map-coloring-using-Backtracking 
+
 This Python code implements the backtracking algorithm to solve the Constraint Satisfaction Problem (CSP) of map coloring. It defines two functions: is_valid checks if assigning a color to a region adheres to the constraint that no adjacent regions have the same color, and solve_map_coloring recursively explores possible color assignments until a valid solution is found. The program uses a map representation with regions, colors, and adjacency information. The skills demonstrated include algorithmic problem-solving, recursion, and constraint handling. The code concludes by printing the valid coloring or indicating if no valid coloring exists.
