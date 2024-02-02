@@ -1,11 +1,10 @@
 # CSP-Map-coloring-using-Backtracking
 
-The provided Python code addresses the Constraint Satisfaction Problem (CSP) of map coloring using the Backtracking algorithm. The goal is to assign colors to regions on a map such that no adjacent regions share the same color.
+This Python code tackles the issue of map coloring that's part of the Constraint Satisfaction Problem (CSP). It uses the Backtracking algorithm and assigns different colors to map areas. The catch is, areas next to each other can't have matching colors.
+The function called is_valid gives a nod to a color allocated to an area if it meets the condition. It does this by looking at surrounding areas on the map. The key function, solve_map_coloring, looks into possible color allocations for all areas, one by one. If an assignment causes problems, it steps back to undo the conflict.
 
-The is_valid function checks whether a given color assignment for a region adheres to the constraint by examining its neighbors in the provided map. The main function, solve_map_coloring, recursively explores possible color assignments for each region. It backtracks when necessary, undoing assignments that lead to conflicts.
+RephraseThe system starts by choosing a section without a color. It reviews possible hues and methodically advances. If it can accordingly color all sections, the color arrangement is given. The coding next sets up an example map showcasing regions and their neighbors, also a palette of colors.
+RephraseWhen run, the system tries to get a working color combination for the map. If it wins, it shares the right coloring arrangement. If not, it shows that no suitable coloring can happen.
 
-The algorithm proceeds by selecting an unassigned region, checking valid colors, and recursively moving forward. If a valid assignment for all regions is found, the color assignment is returned. The code then defines a sample map with regions and their neighbors, as well as a set of colors.
-
-Upon execution, the algorithm attempts to find a valid coloring solution for the map. If successful, it prints the valid coloring assignment; otherwise, it indicates that no valid coloring is possible.
-
-The code demonstrates a backtracking approach to solve the CSP of map coloring, showcasing proficiency in algorithm design, recursion, and constraint handling. The provided example illustrates its application to a specific map scenario.
+Here's a code, using the method of backtracking to find a solution for map color issues. It shows strong skills in creating stride, recursion usage, and managing constraints. This model provides a good example of its use to sort out a map problem.
+It shows strong skills in creating stride, recursion usage, and managing constraints.
