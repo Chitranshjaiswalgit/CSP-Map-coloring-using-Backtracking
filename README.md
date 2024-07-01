@@ -35,7 +35,7 @@ To use the map coloring solver:
 - **Main Block**: Provides a sample map with regions and their neighbors, along with a list of available colors, demonstrating how the solver works.
 
 ## Contribution
-This project was developed by **Chitransh Jaiswal**. Chitransh was responsible for all aspects of the project, including design, development, testing, and documentation.
+I, **Chitransh Jaiswal** developed this Project Individually. I was responsible for all aspects of the project, including design, development, testing, and documentation.
 Contributions to improve the efficiency, readability, or functionality of the code are welcome. To contribute:
 - Fork the repository
 - Make your changes
