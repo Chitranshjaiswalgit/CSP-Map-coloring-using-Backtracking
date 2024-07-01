@@ -20,7 +20,7 @@ To set up the project:
       - git clone <https://github.com/jaiswalchitransh/CSP-Map-coloring-using-Backtracking>
 4. Open the project in your preferred Python environment (e.g., IDE or terminal).
 5. Modify the `map`, `regions`, and `colors` variables in the main block of the `map_coloring.py` script according to your map and color choices.
-6. Run the script (`python map_coloring.py`) and observe the output to see the valid coloring of regions.
+6. Run the script (`csp_map_coloring.py`) and observe the output to see the valid coloring of regions.
 
 
 ## Usage
@@ -29,7 +29,7 @@ Ensure Python 3.x is installed.
 Modify the `map`, `regions`, and `colors` variables in the main block according to your map and color choices.
 Run the script:
 
-- python dfs_searching_algo.py
+- python csp_map_coloring.py
   
 Observe the output to see the valid coloring of regions.
 
