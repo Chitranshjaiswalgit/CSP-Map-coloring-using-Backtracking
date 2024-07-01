@@ -17,9 +17,10 @@ This project requires Python 3.12.1 or later.
 To set up the project:
 1. Ensure Python 3.12.1 or a later version is installed on your system. You can download Python from [python.org](https://www.python.org/downloads/).
 2. Clone or download the repository to your local machine.
-3. Open the project in your preferred Python environment (e.g., IDE or terminal).
-4. Modify the `map`, `regions`, and `colors` variables in the main block of the `map_coloring.py` script according to your map and color choices.
-5. Run the script (`python map_coloring.py`) and observe the output to see the valid coloring of regions.
+      - git clone <https://github.com/jaiswalchitransh/CSP-Map-coloring-using-Backtracking>
+4. Open the project in your preferred Python environment (e.g., IDE or terminal).
+5. Modify the `map`, `regions`, and `colors` variables in the main block of the `map_coloring.py` script according to your map and color choices.
+6. Run the script (`python map_coloring.py`) and observe the output to see the valid coloring of regions.
 
 
 ## Usage
