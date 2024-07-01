@@ -24,12 +24,13 @@ To set up the project:
 
 
 ## Usage
-To use the map coloring solver:
-1. Ensure Python is installed on your system.
-2. Clone or download the repository.
-3. Open the project in your preferred Python environment.
-4. Modify the `map`, `regions`, and `colors` variables in the main block according to your map and color choices.
-5. Run the script and observe the output to see the valid coloring of regions.
+Ensure Python 3.x is installed. 
+Modify the `map`, `regions`, and `colors` variables in the main block according to your map and color choices.
+Run the script:
+
+- python dfs_searching_algo.py
+  
+Observe the output to see the valid coloring of regions.
 
 
 ## Features
