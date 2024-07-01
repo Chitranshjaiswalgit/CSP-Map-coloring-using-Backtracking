@@ -25,6 +25,7 @@ To set up the project:
 
 ## Usage
 Ensure Python 3.x is installed. 
+
 Modify the `map`, `regions`, and `colors` variables in the main block according to your map and color choices.
 Run the script:
 
