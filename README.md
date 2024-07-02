@@ -27,6 +27,7 @@ To set up the project:
 
 ## Usage
 Modify the `map`, `regions`, and `colors` variables in the main block according to your map and color choices.
+
 Run the script:
 
             python csp_map_coloring.py
